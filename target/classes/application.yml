@@ -1,0 +1,8 @@
+db-url: jdbc:mysql://localhost:3306/demo
+db-username: root
+db-password: Abc#123456
+author: Yongjian Bai
+work-dir: D://code//
+xml-dir: D://code//resources
+package: com.demo
+module-name: example
